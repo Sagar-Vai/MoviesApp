@@ -1,0 +1,28 @@
+.signup{
+    margin-left: 37%;
+    margin-top: 10%;
+    /* border: 1px solid; */
+}
+.box{
+    width: 20rem;
+    height: 3rem;
+    margin-bottom: 8px;
+}
+.submit{
+    width: 20rem;
+    background-color: rgb(0, 119, 255);
+    margin-top: 2%;
+    height: 2.5rem;
+    color: white;
+}
+.movies{
+    position: relative;
+    left: 37rem;
+    top: 7rem;
+    font-size: xxx-large;
+    font-family: cursive;
+}
+.loginBtn{
+    background-color: rgb(135, 167, 235);
+    color: white;
+}
